@@ -5,7 +5,7 @@ description: "Carl's Kurzbiographie"
 
 Carl Lutz ist Postdoktorand im
 [Institut für Mathematik](https://www.uni.lu/fstm-en/research-departments/department-of-mathematics/)
-an der Universität Luxemburg. Er ist Stipendiat des
+an der Universität von Luxemburg. Er ist Stipendiat des
 [Walter Benjamin-Programms](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/walter-benjamin)
 der DFG (2025&ndash;2026) sowie des
 [Marie-Skłodowska-Curie-Postdoktorandenstipendiums](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
