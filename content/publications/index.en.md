@@ -4,11 +4,12 @@ description: "Carl's Publications"
 layout: simple
 ---
 
-<!--- Currently no preprintes
 ## Preprints
 
-1. Test
---->
+1. Bowers, John C., Bowers, Philip L., Lutz, Carl O.R.:
+    *Rigidity of circle polyhedra and hyperideal polyhedra: the tangency case*,
+    2026,
+    arXiv: [2601.22903](https://arxiv.org/abs/2601.22903)
 
 ## Peer-Reviewed Journals
 
@@ -16,17 +17,17 @@ layout: simple
     *Decorated Discrete Conformal Equivalence in Non-Euclidean Geometries*,
     **Discrete Comput. Geom.**, 2025,
     DOI: [10.1007/s00454-025-00749-y](https://doi.org/10.1007/s00454-025-00749-y),
-    ArXiv: [2310.17529](https://arxiv.org/abs/2310.17529)
+    arXiv: [2310.17529](https://arxiv.org/abs/2310.17529)
 2. Bobenko, Alexander I., Lutz, Carl O.R.:
     *Decorated Discrete Conformal Maps and convex Polyhedral Cusps*,
     **Int. Math. Res. Not.**, 2024, 2024(12), 9505&ndash;9534,
     DOI: [10.1093/imrn/rnae016](https://doi.org/10.1093/imrn/rnae016),
-    ArXiv: [2305.10988](https://arxiv.org/abs/2305.10988)
+    arXiv: [2305.10988](https://arxiv.org/abs/2305.10988)
 3. Lutz, Carl O.R.:
     *Canonical Tessellations of Decorated Hyperbolic Surfaces*.
     **Geom. Dedicata**, 2023, 217(14), 1&ndash;37,
     DOI: [10.1007/s10711-022-00746-y](https://doi.org/10.1007/s10711-022-00746-y),
-    ArXiv: [2206.13461](https://arxiv.org/abs/2206.13461)
+    arXiv: [2206.13461](https://arxiv.org/abs/2206.13461)
 
 ## Books
 
@@ -35,7 +36,7 @@ layout: simple
     **SpringerBriefs**. Springer, Cham, 2021, x+137 p.,
     ISBN: 978-3-030-81846-3,
     DOI: [10.1007/978-3-030-81847-0](https://doi.org/10.1007/978-3-030-81847-0),
-    ArXiv: [2009.00978](https://arxiv.org/abs/2009.00978)
+    arXiv: [2009.00978](https://arxiv.org/abs/2009.00978)
 
 
 ## Lecture Notes
