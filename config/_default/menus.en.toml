@@ -20,16 +20,22 @@
   pageRef = "publications"
   weight = 20
 
+[[main]]
+  name = "Teaching"
+  pageRef = "teaching"
+  weight = 30
+
 #[[main]]
 #  name = "Projects"
 #  pageRef = "projects"
-#  weight = 30
+#  weight = 40
 
 #[[main]]
 #  identifier = "search"
 #  weight = 99
 #  [main.params]
 #    action = "search"
+#    icon = "search"
 
 #[[main]]
 #  identifier = "locale"
