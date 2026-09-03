@@ -18,4 +18,4 @@ und interdisziplinäre Zusammenarbeit ebnen.
 Department of Mathematics, University of Luxembourg <br>
 6 Av. de la Fonte, L-4364 Esch-Belval, Luxembourg
 
-Email: carl.lutz@ext.uni.lu
+Email: carl.lutz@uni.lu

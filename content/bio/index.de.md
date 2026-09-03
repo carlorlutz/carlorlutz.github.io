@@ -3,21 +3,21 @@ title: "Kurzbiographie"
 description: "Carl's Kurzbiographie"
 ---
 
-Carl Lutz ist Postdoktorand im
+Carl Lutz ist [Marie-Skłodowska-Curie-Postdoktorand](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+im
 [Institut für Mathematik](https://www.uni.lu/fstm-en/research-departments/department-of-mathematics/)
-an der Universität von Luxemburg. Er ist Stipendiat des
+an der Universität von Luxemburg.
+Zuvor war er Stipendiat des
 [Walter Benjamin-Programms](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/walter-benjamin)
-der DFG (2025&ndash;2026) sowie des
-[Marie-Skłodowska-Curie-Postdoktorandenstipendiums](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
-der EU (2026&ndash;2028). Zuvor
-war er Dozent an der
+der DFG (2025&ndash;2026) sowie Dozent an der
 [Technischen Universität Berlin (TU Berlin)](https://www.tu.berlin/math)
-und Forscher im
+(2024&ndash;2025).
+Von 2018 bis 2024 war Carl Lutz im
 [DFG-Sonderforschungsbereich SFB-TRR 109](https://www.discretization.de)
-„Diskretisierung in Geometrie und Dynamik”,
-wo er im Rahmen des Projekts A01 „Diskrete Riemannsche Flächen” tätig war. Dort
-konzentrierte er sich auf dekorierte diskrete konforme Äquivalenzen und die damit
-verbundenen diskreten Uniformisierungsprobleme.
+„Diskretisierung in Geometrie und Dynamik” im Projekt A01
+„Diskrete Riemannsche Flächen” tätig.
+Dort konzentrierte er sich auf dekorierte diskrete konforme Äquivalenzen und
+die damit verbundenen diskreten Uniformisierungsprobleme.
 
 Dr. Lutz ist Alumnus der
 [Berlin Mathematical School (BMS)](https://www.math-berlin.de),

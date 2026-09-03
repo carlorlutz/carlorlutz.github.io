@@ -7,7 +7,7 @@ layout: simple
 ## Preprints
 
 1. Bowers, John C., Bowers, Philip L., Lutz, Carl O.R.:
-    *Rigidity of circle polyhedra and hyperideal polyhedra: the tangency case*,
+    *Rigidity of Koebe Polyhedra and Inversive Distance Circle Packings*,
     2026,
     arXiv: [2601.22903](https://arxiv.org/abs/2601.22903)
 
