@@ -20,4 +20,4 @@ program at the University of Luxembourg.
 
 ## Course Materials
 
-- [Slides (2026-09-04)](2026-09-04_Refresher-Basic-LinA.pdf)
+- [Slides (2026-09-07)](2026-09-07_Refresher-Basic-LinA.pdf)
