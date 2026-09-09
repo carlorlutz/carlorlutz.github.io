@@ -20,4 +20,9 @@ program at the University of Luxembourg.
 
 ## Course Materials
 
-- [Slides (2026-09-07)](2026-09-07_Refresher-Basic-LinA.pdf)
+- Slides [(2026-09-09)](2026-09-09_Refresher-Basic-LinA.pdf)
+- A simple SVD example. [(Jupyter Notebook)](SVD_for_Data_Analysis.ipynb)
+- SVD applied to analyse a simple point cloud.
+[(Jupyter Notebook)](SVD_for_Data_Analysis.ipynb)
+- SVD applied to image compression.
+[(Jupyter Notebook)](SVD_for_Image_Compression.ipynb)
